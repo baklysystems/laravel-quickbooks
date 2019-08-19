@@ -3,7 +3,7 @@
 namespace LifeOnScreen\LaravelQuickBooks;
 
 use Exception;
-use Illuminate\Support\Carbon;
+use Carbon\Carbon;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Cookie;
 use Illuminate\Support\Facades\Request;

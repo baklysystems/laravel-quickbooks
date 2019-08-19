@@ -1,5 +1,5 @@
 {
-    "name": "lifeonscreen/laravel-quickbooks",
+    "name": "baklysystems/laravel-quickbooks",
     "description": "Laravel Quickbooks integration",
     "license": "MIT",
     "authors": [
@@ -7,13 +7,17 @@
             "name": "Jani Cerar",
             "email": "jani.cerar@lifeonscreen.com",
             "homepage": "https://lifeonscreen.com"
-        }
+        },
+{  
+    "name":"Hebatollah Moaz",
+    "email": "hebatollah.moaz@gmail.com"
+}        
     ],
     "homepage": "https://github.com/LifeOnScreen/laravel-quickbooks",
     "keywords": ["Laravel", "laravel-quickbooks"],
     "require": {
         "illuminate/support": "~5",
-        "quickbooks/v3-php-sdk": "^5.0.3"
+        "quickbooks/v3-php-sdk": "^5.1"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
